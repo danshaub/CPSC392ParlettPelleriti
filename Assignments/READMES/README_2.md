@@ -13,3 +13,4 @@
 * https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas/
 * https://book.pythontips.com/en/latest/ternary_operators.html
 * https://stackoverflow.com/questions/20763012/creating-a-pandas-dataframe-from-a-numpy-array-how-do-i-specify-the-index-colum
+* https://www.displayr.com/learn-what-are-residuals/
