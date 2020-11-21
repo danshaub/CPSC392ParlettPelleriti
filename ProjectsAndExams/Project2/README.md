@@ -8,11 +8,13 @@
 
 ### Known errors
 
--
+-   None :)
 
 ### References
 
 -   In class exercises
 -   Homework
 -   Lecture Videos
+-   Sklearn Documentation
+-   Plotnine Documentation
 -   https://plotnine.readthedocs.io/en/stable/tutorials/miscellaneous-show-counts-and-percentages-for-bar-plots.html
