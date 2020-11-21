@@ -15,3 +15,4 @@
 -   In class exercises
 -   Homework
 -   Lecture Videos
+-   https://plotnine.readthedocs.io/en/stable/tutorials/miscellaneous-show-counts-and-percentages-for-bar-plots.html
