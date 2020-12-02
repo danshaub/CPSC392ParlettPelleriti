@@ -53,7 +53,8 @@
 
 ## Questions
 
-1. What insights can we find by analyzing variable trends over the years
+1 What insights can we find by analyzing variable trends over the years
+
 1. What is mood across different types of artist
 1. How does order of soundtrack for movies affect mood
 1. Can we recommend similar songs to a user given a specific artist?
